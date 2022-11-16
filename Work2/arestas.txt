@@ -1,0 +1,17 @@
+ana lucas 3
+marina mirela 5
+mirela marina 5
+mirela victor 7
+ana mirela 4
+ana matheus 4
+daniely arthur 7
+daniely mirela 6
+victor marina 2
+victor mirela 6
+arthur daniely 8
+arthur matheus 3
+matheus ana 5
+matheus arthur 3
+lucas ana 7
+lucas victor 4
+arthur Gabriela 2
